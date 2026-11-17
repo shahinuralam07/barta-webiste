@@ -1,0 +1,6 @@
+{
+  "name": "Barta Technology",
+  "description": "Official corporate website for Barta Technology Pvt. Ltd. — building secure, private, and future-ready digital communication experiences from India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
